@@ -4,11 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="790adc49-05af-456f-9f32-a1a0de47ff06" name="Changes" comment="Supporting Parameters test units.">
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ec/epn/edu/git/calculator/CalculatorExecute.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ec/epn/edu/git/calculator/CalculatorTest.java" afterDir="false" />
+    <list default="true" id="790adc49-05af-456f-9f32-a1a0de47ff06" name="Changes" comment="Adding CalculatorExecute class.&#10;Adding calculator java archiver .JAR.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ec/epn/edu/git/calculator/CalculatorExecute.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ec/epn/edu/git/calculator/CalculatorExecute.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/GR03_1BP3_622_26B-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/GR03_1BP3_622_26B-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ec/epn/edu/git/calculator/CalculatorExecute.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ec/epn/edu/git/calculator/CalculatorExecute.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-ec.epn.edu.git.calculator.CalculatorParametersTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-ec.epn.edu.git.calculator.CalculatorParametersTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-ec.epn.edu.git.calculator.CalculatorTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-ec.epn.edu.git.calculator.CalculatorTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/ec.epn.edu.git.calculator.CalculatorParametersTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/ec.epn.edu.git.calculator.CalculatorParametersTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/ec.epn.edu.git.calculator.CalculatorTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/ec.epn.edu.git.calculator.CalculatorTest.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -158,7 +162,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Adding calculator class and unit tests." />
     <MESSAGE value="Supporting Parameters test units." />
-    <option name="LAST_COMMIT_MESSAGE" value="Supporting Parameters test units." />
+    <MESSAGE value="Adding CalculatorExecute class.&#10;Adding calculator java archiver .JAR." />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding CalculatorExecute class.&#10;Adding calculator java archiver .JAR." />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
